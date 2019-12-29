@@ -21,6 +21,9 @@ add_subdirectory("PrimitiveFunction/GL_Triangle_Fan")
 add_subdirectory("PrimitiveFunction/GL_Quads")
 add_subdirectory("PrimitiveFunction/GL_Quad_Strip")
 
+add_subdirectory("VertexArray/Original")
+add_subdirectory("VertexArray/Optimize")
+
 
 
 
